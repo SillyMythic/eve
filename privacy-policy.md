@@ -22,6 +22,10 @@
   If you have any questions regarding our privacy practices, please contact us directly.
 </p>
 
+<p style="font-size: 14px; color: #57606a;">
+  Please also review the <a href="https://github.com/SillyMythic/eve/blob/main/terms-of-service.md">Terms of Service</a>.
+</p>
+
 <!-- Increased space between the link and last updated -->
 <h3 style="font-size: 12px; color: #57606a; text-align: right; margin-top: 80px;">
   Last Updated April 2025
