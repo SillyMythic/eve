@@ -19,6 +19,10 @@
 </ol>
 
 <p style="font-size: 14px; color: #57606a;">
+  If you have any questions regarding our privacy practices, please contact me directly at <a href="mailto:mythicihas.business@pm.me" style="color: #1a73e8;">mythicihas.business@pm.me</a>. A response is not guaranteed.
+</p>
+
+<p style="font-size: 14px; color: #57606a;">
   For more details, please review the <a href="https://github.com/SillyMythic/eve/blob/main/privacy-policy.md">Privacy Policy</a>.
 </p>
 
